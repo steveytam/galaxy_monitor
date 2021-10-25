@@ -9,6 +9,8 @@ sites:
     url: https://api-bsre.bssn.go.id
   - name: CVS System
     url: http://cvs-bsre.bssn.go.id
+  - name: Timestamp Authority BSrE
+    url: http://tsa-bsre.bssn.go.id
   - name: AMS Portal
     url: https://portal-bsre.bssn.go.id
   - name: BSrE Public Web
