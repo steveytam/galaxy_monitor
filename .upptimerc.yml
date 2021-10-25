@@ -1,22 +1,24 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: steveytam # Your GitHub organization or username, where this repository lives
+repo: galaxy_monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: eSign Cloud
+    url: https://esign-bsre.bssn.go.id
+  - name: API BSrE BSSN
+    url: https://api-bsre.bssn.go.id
+  - name: CVS System
+    url: http://cvs-bsre.bssn.go.id
+  - name: AMS Portal
+    url: https://portal-bsre.bssn.go.id
+  - name: BSrE Public Web
+    url: https://bsre.bssn.go.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /galaxy_monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
